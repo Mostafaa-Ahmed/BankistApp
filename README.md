@@ -1,7 +1,4 @@
-## **<h2 align="center">Front end application  💻</h2>**
-
-
-# 💸 Banskist
+# **<h2 align="center">💸 Banskist</h2>**
 
 # Important
 ## :key: How to Login
